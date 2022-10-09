@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Bakhram74/home_work/static/css/main.ab67b175.css",
+    "main.js": "/Bakhram74/home_work/static/js/main.17d68807.js",
+    "static/js/787.66cb4309.chunk.js": "/Bakhram74/home_work/static/js/787.66cb4309.chunk.js",
+    "static/media/friend.png": "/Bakhram74/home_work/static/media/friend.10c92220a7ca91870160.png",
+    "static/media/avatar.png": "/Bakhram74/home_work/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Bakhram74/home_work/index.html",
+    "main.ab67b175.css.map": "/Bakhram74/home_work/static/css/main.ab67b175.css.map",
+    "main.17d68807.js.map": "/Bakhram74/home_work/static/js/main.17d68807.js.map",
+    "787.66cb4309.chunk.js.map": "/Bakhram74/home_work/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab67b175.css",
+    "static/js/main.17d68807.js"
+  ]
+}
