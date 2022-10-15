@@ -8,8 +8,7 @@
 
 .friendImageAndText img {
     position: relative;
-    top: 30px;
-    left: 70px;
+    top: -17px;
     width: 48px;
     height: 48px;
     background-color: #bf835c;
@@ -19,9 +18,9 @@
 
 .friendText {
     position: relative;
-    top: -30px;
+    top: -77px;
 
-    left: 125px;
+    left: 60px;
     width: 414px;
     height: 60px;
     border-radius: 10px;
@@ -50,7 +49,7 @@
     left: 27px;
     width: 35px;
     height: 20px;
-    font-family: Montserrat;
+    font-family: Montserrat,sans-serif;
     font-size: 16px;
     line-height: 20px;
     font-weight: 600;
@@ -64,7 +63,7 @@
     left: 27px;
     width: 373px;
     height: 20px;
-    font-family: Montserrat;
+    font-family: Montserrat,sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
@@ -75,8 +74,8 @@
     position: relative;
     width: 29px;
     height: 12px;
-    left: 80px;
-    top: -25px;
+    left: 10px;
+    top: -67px;
 
     font-family: 'Montserrat';
     font-style: normal;

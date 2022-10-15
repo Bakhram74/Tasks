@@ -1,10 +1,10 @@
 import React from 'react'
 import Message from './message/Message'
-import MessageSender from './message-sender/MessageSender'
 import s2 from '../../s1-main/App.module.css'
 import FriendMessage from './friend-message/FriendMessage'
 import avatar from './avatar.png'
 import friend from './friend.png'
+import MessageSender from "./message-sender/MessageSender";
 
 /*
 * 1 - описать тип MessageType
@@ -62,7 +62,7 @@ const HW1 = () => {
                     <FriendMessage message={friendMessage0} />
                 </div>
 
-                {/*для автоматической проверки дз (не менять)*/}
+            {/*    /!*для автоматической проверки дз (не менять)*!/*/}
                 <MessageSender M={Message} />
             </div>
         </div>
