@@ -2,34 +2,87 @@
 }
 
 .inputAndButtonContainer {
+    display: flex;
 }
 
 .error {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 7px;
+    color: #CC0000;
 }
 
+
 .input {
+    padding-left: 12px;
+    width: 372px;
+    height: 36px;
+    border: 1px solid #D1D1D1;
+    border-radius: 5px;
+    font-size: 16px;
 }
 
 .input:focus {
+
 }
 
 .errorInput {
+    border: 1px solid #CC0000;
+    border-radius: 5px;
 }
 
 .button {
+    background: #0066CC;
+    align-items: center;
+    height: 36px;
+    width: 78px;
+    border: 1px #0066CC;
+    border-radius: 3px ;
+    margin-left: 12px;
+
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+
 }
 
-.button:focus {
+button:focus {
+
 }
 
-.button:active {
+button:active {
+
 }
 
-.button:disabled {
+button:disabled {
+    background: #0066CC;
+    opacity: 0.5;
 }
 
 .text {
+
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 9px;
+    color: rgba(0, 0, 0, 0.5);
 }
 
 .greeting {
+    margin-top: 7px;
+    font-family: 'Montserrat',sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #000000;
 }
