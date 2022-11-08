@@ -23,6 +23,7 @@
 }
 
 .default {
+    margin-right: 24px;
     width: 132px;
     height: 30px;
     background: #0066CC;

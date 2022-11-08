@@ -6,13 +6,12 @@
 }
 
 .inputWrapper {
-
 }
 
 .superInput {
    border: 1px solid #D1D1D1;
    border-radius: 5px;
-   width: 372px;
+   width: 276px;
    height: 36px;
 }
 
@@ -27,10 +26,7 @@
 }
 
 .error {
-   position: absolute;
-left: 70px;
-   top: 193px;
    font-weight: 400;
-   font-size: 10px;
-   color: #CC1439
+   font-size: 14px;
+   color: #CC1439;
 }
