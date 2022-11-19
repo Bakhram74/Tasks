@@ -1,23 +1,43 @@
-.item {
+.item{
+    padding-top: 14px;
+}
+tbody{
+
+}
+.item td{
+    padding: 16px 0 16px 17px;
+    border-bottom: 1px solid #E5E5E5;
+
 }
 
 .item:last-of-type {
 }
 
 .users {
+    margin-top: 18px;
+    width: 606px;
 }
 
 .buttonsContainer {
+    margin-left: 277px;
 }
 
 .container {
+
 }
 
-.thead {
+.thead{
+    background: #E5E5E5;
+    height: 36px;
+    font-weight: 600;
+    font-size: 14px;
+
 }
 
 .nameCol {
+    padding-left: 17px;
 }
 
 .ageCol {
+
 }
