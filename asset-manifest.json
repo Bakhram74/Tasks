@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/home_work/static/css/main.5ccce3be.css",
-    "main.js": "/home_work/static/js/main.6947f965.js",
-    "static/js/787.66cb4309.chunk.js": "/home_work/static/js/787.66cb4309.chunk.js",
-    "static/media/friend.png": "/home_work/static/media/friend.10c92220a7ca91870160.png",
-    "static/media/avatar.png": "/home_work/static/media/avatar.d947cb9d0d13765666b6.png",
-    "static/media/404.svg": "/home_work/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
-    "static/media/closeOutline.svg": "/home_work/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
-    "static/media/editIcon.svg": "/home_work/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
-    "static/media/checked.svg": "/home_work/static/media/checked.b75ca55e8759862b4083.svg",
-    "index.html": "/home_work/index.html",
-    "static/media/burger.svg": "/home_work/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.5ccce3be.css.map": "/home_work/static/css/main.5ccce3be.css.map",
-    "main.6947f965.js.map": "/home_work/static/js/main.6947f965.js.map",
-    "787.66cb4309.chunk.js.map": "/home_work/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/Tasks/static/css/main.1cb3e90e.css",
+    "main.js": "/Tasks/static/js/main.85ac79f7.js",
+    "static/js/787.66cb4309.chunk.js": "/Tasks/static/js/787.66cb4309.chunk.js",
+    "static/media/friend.png": "/Tasks/static/media/friend.10c92220a7ca91870160.png",
+    "static/media/avatar.png": "/Tasks/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/Tasks/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
+    "static/media/closeOutline.svg": "/Tasks/static/media/closeOutline.b64ba402fac8a549bc2de97e9cf84a61.svg",
+    "static/media/editIcon.svg": "/Tasks/static/media/editIcon.0a0cefd2190b593b4f76bb1a5afe0c1f.svg",
+    "static/media/checked.svg": "/Tasks/static/media/checked.b75ca55e8759862b4083.svg",
+    "index.html": "/Tasks/index.html",
+    "static/media/burger.svg": "/Tasks/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
+    "main.1cb3e90e.css.map": "/Tasks/static/css/main.1cb3e90e.css.map",
+    "main.85ac79f7.js.map": "/Tasks/static/js/main.85ac79f7.js.map",
+    "787.66cb4309.chunk.js.map": "/Tasks/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ccce3be.css",
-    "static/js/main.6947f965.js"
+    "static/css/main.1cb3e90e.css",
+    "static/js/main.85ac79f7.js"
   ]
 }
