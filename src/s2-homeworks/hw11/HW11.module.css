@@ -1,8 +1,11 @@
 .container {
 }
 
-.wrapper {
+.wrapper:nth-child(odd) {
+    margin-bottom: 56px;
 }
 
 .number {
+    font-weight: 600;
+    font-size: 16px;
 }
