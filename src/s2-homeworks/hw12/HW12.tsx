@@ -31,7 +31,6 @@ dispatch(changeThemeId(id))
     }
 
     useEffect(() => {
-        console.log(themeId)
         document.documentElement.dataset.theme = themeId + ''
     }, [themeId])
 
